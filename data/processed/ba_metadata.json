@@ -1,0 +1,50 @@
+[
+  {
+    "ba_code": "CAISO",
+    "ba_name": "California ISO",
+    "interconnection": "western",
+    "lat": 38.58,
+    "lon": -121.49,
+    "demand_base_mw": 28000
+  },
+  {
+    "ba_code": "MISO",
+    "ba_name": "Midcontinent ISO",
+    "interconnection": "eastern",
+    "lat": 42.0,
+    "lon": -93.0,
+    "demand_base_mw": 52000
+  },
+  {
+    "ba_code": "PJM",
+    "ba_name": "PJM Interconnection",
+    "interconnection": "eastern",
+    "lat": 39.95,
+    "lon": -75.16,
+    "demand_base_mw": 68000
+  },
+  {
+    "ba_code": "ERCOT",
+    "ba_name": "Electric Reliability Council of Texas",
+    "interconnection": "ercot",
+    "lat": 30.27,
+    "lon": -97.74,
+    "demand_base_mw": 48000
+  },
+  {
+    "ba_code": "SPP",
+    "ba_name": "Southwest Power Pool",
+    "interconnection": "eastern",
+    "lat": 35.47,
+    "lon": -97.52,
+    "demand_base_mw": 22000
+  },
+  {
+    "ba_code": "NYISO",
+    "ba_name": "New York ISO",
+    "interconnection": "eastern",
+    "lat": 42.65,
+    "lon": -73.75,
+    "demand_base_mw": 24000
+  }
+]
