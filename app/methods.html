@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Methods & Caveats</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="layout">
+    <h1>Methods & Caveats</h1>
+    <p>This dashboard highlights geographic diversity of wind and solar output. It does not model all reliability constraints.</p>
+    <h2>Harvested mode</h2>
+    <p>Uses balancing-authority-visible hourly values (utility-scale-visible perspective). Values in this MVP are sample data scaffolded to match intended EIA-930-style schema.</p>
+    <h2>Harvestable mode</h2>
+    <p>Shows scenario-based modeled estimates from precomputed demo data. Transmission/storage assumptions influence how diversity can be used:</p>
+    <ul>
+      <li>Local: buildout constrained inside each BA.</li>
+      <li>Regional: buildout optimized within each interconnection.</li>
+      <li>National: buildout optimized nationwide under macrogrid assumption.</li>
+    </ul>
+    <p>Future versions will replace demo scenarios with weather-driven precomputed outputs linked to supply-curve economics.</p>
+    <p><a href="./index.html">Back to explorer</a></p>
+  </main>
+</body>
+</html>
