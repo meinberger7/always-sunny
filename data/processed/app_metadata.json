@@ -1,0 +1,18 @@
+{
+  "app_config": {
+    "default_mode": "harvested",
+    "default_harvestable_buildout": 60,
+    "default_harvestable_transmission_scope": "regional",
+    "default_window_hours": 24
+  },
+  "glossary": {
+    "balancing_authority": "An entity responsible for balancing electricity supply and demand in real time.",
+    "harvested": "Observed BA-visible, utility-scale-visible wind and solar generation at each hour.",
+    "harvestable": "Scenario-based modeled estimate of what could have been harvested under the same weather and assumptions."
+  },
+  "caveats": [
+    "Harvested mode uses BA-visible, utility-scale-visible observed values and may not include all behind-the-meter solar.",
+    "This dashboard communicates geographic diversity and does not represent a full reliability simulation.",
+    "Harvestable mode relies on precomputed scenario assumptions and is not operational dispatch."
+  ]
+}

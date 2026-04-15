@@ -1,0 +1,5 @@
+{
+  "fetched_at_utc": "sample",
+  "source": "committed sample derived from eia930-style layout",
+  "notes": "Used for offline demo build without API call."
+}

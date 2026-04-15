@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HarvestableHourlyByBAScenario",
+  "type": "object",
+  "required": [
+    "scenario_id",
+    "buildout_target_pct_of_annual_demand",
+    "transmission_scope",
+    "timestamp_utc",
+    "timestamp_local",
+    "ba_code",
+    "ba_name",
+    "interconnection",
+    "lat",
+    "lon",
+    "harvestable_wind_mw",
+    "harvestable_solar_mw",
+    "harvestable_total_mw"
+  ],
+  "properties": {
+    "scenario_id": {"type": "string"},
+    "buildout_target_pct_of_annual_demand": {"type": "number"},
+    "transmission_scope": {"type": "string", "enum": ["local", "regional", "national"]},
+    "timestamp_utc": {"type": "string"},
+    "timestamp_local": {"type": "string"},
+    "ba_code": {"type": "string"},
+    "ba_name": {"type": "string"},
+    "interconnection": {"type": "string"},
+    "lat": {"type": "number"},
+    "lon": {"type": "number"},
+    "harvestable_wind_mw": {"type": "number"},
+    "harvestable_solar_mw": {"type": "number"},
+    "harvestable_total_mw": {"type": "number"}
+  }
+}

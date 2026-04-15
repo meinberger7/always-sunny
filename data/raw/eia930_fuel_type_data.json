@@ -1,0 +1,2311 @@
+{
+  "response": {
+    "total": "288",
+    "data": [
+      {
+        "period": "2026-01-15T00",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5639.2
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 593.6
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10794.33
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1102.4
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14536.13
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1441.6
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10557.6
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1017.6
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4974.93
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 466.4
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5575.6
+      },
+      {
+        "period": "2026-01-15T00",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 508.8
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5644.74
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 585.2
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10800.07
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1086.8
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14537.69
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1421.2
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10554.5
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1003.2
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4971.59
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 459.8
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5569.85
+      },
+      {
+        "period": "2026-01-15T01",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 501.6
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5647.83
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 576.8
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10801.27
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1071.2
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14533.3
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1400.8
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10547.2
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 988.8
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4966.32
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 453.2
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5562.0
+      },
+      {
+        "period": "2026-01-15T02",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 494.4
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5648.47
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 568.4
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10797.91
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1055.6
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14522.96
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1380.4
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10535.7
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 974.4
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4959.12
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 446.6
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5552.05
+      },
+      {
+        "period": "2026-01-15T03",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 487.2
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5646.67
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 560.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10790.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1040.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14506.67
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1360.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10520.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 960.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4950.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 440.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5540.0
+      },
+      {
+        "period": "2026-01-15T04",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 480.0
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5642.41
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 551.6
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10777.54
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1024.4
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14484.42
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1339.6
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10500.1
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 945.6
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4938.95
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 433.4
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5525.85
+      },
+      {
+        "period": "2026-01-15T05",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 472.8
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5635.7
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 543.2
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10760.53
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1008.8
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14456.23
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1319.2
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10476.0
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 931.2
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4925.98
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 426.8
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5509.6
+      },
+      {
+        "period": "2026-01-15T06",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 465.6
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5626.54
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 534.8
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10738.98
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 993.2
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14422.09
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1298.8
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10447.7
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 916.8
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4911.09
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 420.2
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5491.25
+      },
+      {
+        "period": "2026-01-15T07",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 458.4
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5614.93
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 526.4
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10712.87
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 977.6
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14382.0
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1278.4
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10415.2
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 902.4
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4894.27
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 413.6
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5470.8
+      },
+      {
+        "period": "2026-01-15T08",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 451.2
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5600.88
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 518.0
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10682.21
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 962.0
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14335.96
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1258.0
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10378.5
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 888.0
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4875.52
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 407.0
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5448.25
+      },
+      {
+        "period": "2026-01-15T09",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 444.0
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5584.37
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 509.6
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10647.0
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 946.4
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14283.97
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1237.6
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10337.6
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 873.6
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4854.85
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 400.4
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5423.6
+      },
+      {
+        "period": "2026-01-15T10",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 436.8
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5565.41
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 501.2
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10607.24
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 930.8
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14226.03
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1217.2
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10292.5
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 859.2
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4832.25
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 393.8
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5396.85
+      },
+      {
+        "period": "2026-01-15T11",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 429.6
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5544.0
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 492.8
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10562.93
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 915.2
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14162.13
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1196.8
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10243.2
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 844.8
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4807.73
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 387.2
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5368.0
+      },
+      {
+        "period": "2026-01-15T12",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 422.4
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5711.59
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1074.0
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10878.73
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1994.57
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14581.04
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2608.29
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10543.1
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1841.14
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4947.11
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 843.86
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5522.15
+      },
+      {
+        "period": "2026-01-15T13",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 920.57
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5881.63
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1674.4
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11199.07
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3109.6
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 15005.9
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4066.4
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10847.2
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2870.4
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5088.42
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1315.6
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4149.6
+      },
+      {
+        "period": "2026-01-15T14",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1435.2
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6054.12
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2294.0
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11523.96
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4260.29
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 15436.71
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 5571.14
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11155.5
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3932.57
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5231.65
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1802.43
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4282.75
+      },
+      {
+        "period": "2026-01-15T15",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 1966.29
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6229.07
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2932.8
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11853.4
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 5446.63
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 15873.47
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7122.51
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11468.0
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 5027.66
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 3929.2
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2304.34
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4418.0
+      },
+      {
+        "period": "2026-01-15T16",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2513.83
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6406.46
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3590.8
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 12187.39
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 6668.63
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 16316.17
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 8720.51
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 11784.7
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 6155.66
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4053.18
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2821.34
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4555.35
+      },
+      {
+        "period": "2026-01-15T17",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3077.83
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6586.3
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4268.0
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 12525.93
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7926.29
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 16764.83
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 10365.14
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 8846.4
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7316.57
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4179.08
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3353.43
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4694.8
+      },
+      {
+        "period": "2026-01-15T18",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3658.29
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6768.59
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4964.4
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 12869.02
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 9219.6
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 17219.44
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 12056.4
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 9121.1
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 8510.4
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4306.91
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3900.6
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4836.35
+      },
+      {
+        "period": "2026-01-15T19",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4255.2
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 6953.33
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4400.0
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 13216.67
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 8171.43
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 12920.0
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 10685.71
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 9400.0
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7542.86
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4436.67
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3457.14
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4980.0
+      },
+      {
+        "period": "2026-01-15T20",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3771.43
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 7140.52
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3816.4
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 13568.86
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7087.6
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 13315.11
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 9268.4
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 9683.1
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 6542.4
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4568.35
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2998.6
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5125.75
+      },
+      {
+        "period": "2026-01-15T21",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3271.2
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 7330.17
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 3213.6
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10176.4
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 5968.11
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 13716.17
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 7804.46
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 9970.4
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 5509.03
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4701.95
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2524.97
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5273.6
+      },
+      {
+        "period": "2026-01-15T22",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2754.51
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 7522.26
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "CAL",
+        "respondent-name": "California ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2591.6
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10483.09
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "MISO",
+        "respondent-name": "Midcontinent ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4812.97
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 14123.18
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "PJM",
+        "respondent-name": "PJM Interconnection",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 6293.89
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 10261.9
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "ERCO",
+        "respondent-name": "Electric Reliability Council of Texas",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 4442.74
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 4837.48
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "SWPP",
+        "respondent-name": "Southwest Power Pool",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2036.26
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "WND",
+        "fueltype-name": "Wind",
+        "value": 5423.55
+      },
+      {
+        "period": "2026-01-15T23",
+        "respondent": "NYIS",
+        "respondent-name": "New York ISO",
+        "fueltype": "SUN",
+        "fueltype-name": "Solar",
+        "value": 2221.37
+      }
+    ]
+  }
+}
