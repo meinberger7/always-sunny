@@ -23,7 +23,7 @@ jobs:
       - name: Build artifact
         run: |
           mkdir -p _site
-          cp -r app _site/app
+          cp -r app/. _site/
           cp -r data _site/data
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
