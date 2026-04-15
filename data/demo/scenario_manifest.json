@@ -1,0 +1,98 @@
+[
+  {
+    "scenario_id": "b20_local",
+    "buildout_target_pct_of_annual_demand": 20,
+    "transmission_scope": "local",
+    "label": "20% demand target / local",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b20_regional",
+    "buildout_target_pct_of_annual_demand": 20,
+    "transmission_scope": "regional",
+    "label": "20% demand target / regional",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b20_national",
+    "buildout_target_pct_of_annual_demand": 20,
+    "transmission_scope": "national",
+    "label": "20% demand target / national",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b40_local",
+    "buildout_target_pct_of_annual_demand": 40,
+    "transmission_scope": "local",
+    "label": "40% demand target / local",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b40_regional",
+    "buildout_target_pct_of_annual_demand": 40,
+    "transmission_scope": "regional",
+    "label": "40% demand target / regional",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b40_national",
+    "buildout_target_pct_of_annual_demand": 40,
+    "transmission_scope": "national",
+    "label": "40% demand target / national",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b60_local",
+    "buildout_target_pct_of_annual_demand": 60,
+    "transmission_scope": "local",
+    "label": "60% demand target / local",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b60_regional",
+    "buildout_target_pct_of_annual_demand": 60,
+    "transmission_scope": "regional",
+    "label": "60% demand target / regional",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b60_national",
+    "buildout_target_pct_of_annual_demand": 60,
+    "transmission_scope": "national",
+    "label": "60% demand target / national",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b80_local",
+    "buildout_target_pct_of_annual_demand": 80,
+    "transmission_scope": "local",
+    "label": "80% demand target / local",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b80_regional",
+    "buildout_target_pct_of_annual_demand": 80,
+    "transmission_scope": "regional",
+    "label": "80% demand target / regional",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  },
+  {
+    "scenario_id": "b80_national",
+    "buildout_target_pct_of_annual_demand": 80,
+    "transmission_scope": "national",
+    "label": "80% demand target / national",
+    "is_demo": true,
+    "notes": "Synthetic precomputed scenario for MVP wiring."
+  }
+]

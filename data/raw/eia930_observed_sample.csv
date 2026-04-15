@@ -1,0 +1,1 @@
+timestamp_utc,timestamp_local,ba_code,ba_name,interconnection,lat,lon,demand_mw,total_generation_mw,wind_mw,solar_mw,interchange_mw,wind_solar_mw,wind_solar_share_of_generation
