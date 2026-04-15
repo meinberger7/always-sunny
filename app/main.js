@@ -171,8 +171,8 @@ function bindEvents() {
 }
 
 async function init() {
-  observed = await fetch('../data/processed/observed_hourly.json').then(r => r.json());
-  harvestable = await fetch('../data/demo/harvestable_demo.json').then(r => r.json());
+  observed = await fetch('./data/processed/observed_hourly.json').then(r => r.json());
+  harvestable = await fetch('./data/demo/harvestable_demo.json').then(r => r.json());
   bindEvents();
   render();
 }
