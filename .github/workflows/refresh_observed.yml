@@ -1,0 +1,28 @@
+name: Refresh observed assets
+
+on:
+  schedule:
+    - cron: '15 11 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build observed assets
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: |
+          python scripts/fetch_observed_data.py
+          python scripts/build_observed_assets.py
+      - name: Commit refreshed assets
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git add data/raw data/processed
+          git diff --cached --quiet || git commit -m "chore: refresh observed assets"
+          git push
