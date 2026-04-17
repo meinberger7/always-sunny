@@ -6,10 +6,11 @@
 - Deterministic ETL scripts that emit app-ready JSON.
 
 ## Data flow
-1. `scripts/fetch_observed_data.py` creates/fetches raw observed input (`data/raw/`).
-2. `scripts/build_observed_assets.py` normalizes into `data/processed/observed_hourly.json` and BA metadata.
-3. `scripts/build_demo_harvestable_assets.py` builds scenario manifest + demo harvestable records in `data/demo/`.
-4. Frontend (`app/main.js`) reads processed/demo JSON directly.
+1. `data/raw/eia930_observed_sample.csv` stores a checked-in EIA-930-style hourly BA sample extract used by the app.
+2. `scripts/build_observed_assets.py` normalizes that sample into `data/processed/observed_hourly.json` and BA metadata.
+3. `scripts/fetch_observed_data.py` is intentionally still a placeholder integration slot for future live pulls.
+4. `scripts/build_demo_harvestable_assets.py` builds scenario manifest + demo harvestable records in `data/demo/`.
+5. Frontend (`app/main.js`) reads processed/demo JSON directly.
 
 ## Frontend contract
 - Observed schema: `schemas/observed.schema.json`

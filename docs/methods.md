@@ -11,5 +11,5 @@ This project communicates one core concept: wind and solar vary locally, but geo
 - It does **not** claim wind+solar alone solve all reliability challenges.
 
 ## Data status in MVP
-- Observed mode uses schema-compatible sample data and ETL scaffolding intended for EIA-930 style ingestion.
-- Harvestable mode uses schema-compatible synthetic scenarios intended to be replaced by precomputed weather/supply-curve outputs.
+- Observed mode uses a checked-in real EIA-930-style hourly BA sample dataset normalized to the frontend schema.
+- Harvestable mode remains schema-compatible synthetic scenarios intended to be replaced later by precomputed weather/supply-curve outputs.

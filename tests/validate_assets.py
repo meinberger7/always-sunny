@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import csv
 import json
 from pathlib import Path
 
@@ -48,6 +49,17 @@ def main() -> None:
     assert harv, "Harvestable data must not be empty"
     assert REQUIRED_OBS.issubset(obs[0]), "Observed schema mismatch"
     assert REQUIRED_HARV.issubset(harv[0]), "Harvestable schema mismatch"
+
+    ts = {r["timestamp_utc"] for r in obs}
+    bas = {r["ba_code"] for r in obs}
+    assert len(ts) >= 24, "Observed sample should include at least 24 hourly timestamps"
+    assert len(bas) >= 5, "Observed sample should include multiple balancing authorities"
+
+    raw_path = ROOT / "data/raw/eia930_observed_sample.csv"
+    with raw_path.open() as f:
+        raw_rows = list(csv.DictReader(f))
+    assert raw_rows, "Checked-in raw EIA sample must not be empty"
+
     print("Asset validation passed.")
 
 

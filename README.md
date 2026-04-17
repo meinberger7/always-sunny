@@ -53,11 +53,11 @@ python tests/validate_assets.py
 - Committed sample processed/demo data so UI runs without fresh pulls.
 
 ## Data refresh notes
-- `refresh_observed.yml` can run on schedule and commit updated observed assets.
-- Current `fetch_observed_data.py` is a scaffold placeholder for live EIA-930 ingestion.
+- Observed assets are currently built from the checked-in `data/raw/eia930_observed_sample.csv` sample (no live fetch required at runtime).
+- `fetch_observed_data.py` remains a scaffold placeholder for future live EIA-930 ingestion.
 
 ## Known limitations
 - Map is simplified projected SVG (clarity-first, not full GIS fidelity).
-- Observed mode currently uses synthetic scaffolded sample data.
+- Observed mode uses a checked-in real EIA-930-style sample slice (BA-visible, utility-scale-visible; not full fleet telemetry).
 - Harvestable mode is intentionally synthetic until real precomputed scenarios are integrated.
 - Dashboard is not a reliability adequacy simulator.
