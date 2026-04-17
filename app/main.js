@@ -10,6 +10,7 @@ const state = {
 const els = {
   headline: document.getElementById('headline'),
   caveat: document.getElementById('mode-caveat'),
+  orientationLayer: document.getElementById('map-orientation-layer'),
   timeSlider: document.getElementById('time-slider'),
   timeLabel: document.getElementById('time-label'),
   playBtn: document.getElementById('play-btn'),
@@ -29,6 +30,56 @@ const projection = (lat, lon) => {
   const y = ((49 - lat) / 25) * 290 + 120;
   return [x, y];
 };
+
+const lower48Outline = [
+  [48.9, -124.7], [47.8, -124.4], [46.2, -123.8], [44.7, -124.2], [42.0, -124.3],
+  [40.0, -124.1], [38.0, -123.1], [36.5, -122.4], [34.8, -120.5], [34.0, -118.4],
+  [32.7, -117.2], [31.3, -111.1], [29.7, -108.2], [28.9, -106.5], [29.1, -103.0],
+  [28.9, -100.0], [29.2, -97.2], [27.9, -97.0], [27.5, -96.2], [28.9, -94.1],
+  [29.7, -92.6], [29.3, -89.6], [30.2, -87.7], [30.4, -85.5], [29.8, -84.1],
+  [30.7, -82.5], [28.8, -80.0], [25.2, -80.1], [26.8, -81.7], [30.0, -81.5],
+  [31.6, -80.7], [32.2, -79.3], [33.1, -78.4], [34.6, -76.8], [36.5, -75.9],
+  [39.0, -74.4], [40.7, -73.5], [41.3, -71.9], [42.9, -70.7], [44.7, -67.0],
+  [45.7, -67.1], [47.0, -69.2], [45.0, -72.4], [45.0, -75.1], [44.1, -76.4],
+  [43.5, -79.2], [42.3, -82.5], [43.0, -84.8], [46.2, -90.4], [48.8, -95.2],
+  [49.0, -104.2], [49.0, -110.2], [49.0, -114.3], [48.9, -124.7]
+];
+
+const orientationLines = [
+  [[49.0, -120.0], [32.5, -120.0]],
+  [[49.0, -112.0], [31.0, -112.0]],
+  [[49.0, -104.0], [29.0, -104.0]],
+  [[48.5, -96.0], [27.5, -96.0]],
+  [[47.0, -88.0], [29.0, -88.0]],
+  [[46.5, -80.0], [32.0, -80.0]],
+  [[45.0, -124.0], [45.0, -67.0]],
+  [[40.0, -124.0], [40.0, -73.5]],
+  [[35.0, -121.0], [35.0, -75.5]]
+];
+
+function buildMapOrientationLayer() {
+  const points = lower48Outline.map(([lat, lon]) => {
+    const [x, y] = projection(lat, lon);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  });
+
+  const outlinePath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  outlinePath.setAttribute('d', `M${points.join(' L')} Z`);
+  outlinePath.setAttribute('class', 'us-outline');
+  els.orientationLayer.appendChild(outlinePath);
+
+  orientationLines.forEach(([[latA, lonA], [latB, lonB]]) => {
+    const [x1, y1] = projection(latA, lonA);
+    const [x2, y2] = projection(latB, lonB);
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x1.toFixed(1));
+    line.setAttribute('y1', y1.toFixed(1));
+    line.setAttribute('x2', x2.toFixed(1));
+    line.setAttribute('y2', y2.toFixed(1));
+    line.setAttribute('class', 'state-line');
+    els.orientationLayer.appendChild(line);
+  });
+}
 
 let observed = [];
 let harvestable = [];
@@ -171,6 +222,7 @@ function bindEvents() {
 }
 
 async function init() {
+  buildMapOrientationLayer();
   observed = await fetch('./data/processed/observed_hourly.json').then(r => r.json());
   harvestable = await fetch('./data/demo/harvestable_demo.json').then(r => r.json());
   bindEvents();
